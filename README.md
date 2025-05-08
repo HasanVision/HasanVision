@@ -21,5 +21,5 @@ I'm a full-stack web developer who loves building clean, fast, and accessible we
 - Startups or teams building globally inclusive platforms
 
 ## 📫 How to reach me
-- [[LinkedIn](https://www.linkedin.com/in/your-link) ](https://www.linkedin.com/in/hasan-haj-hasan/) 
-- Email: hasanvision@gmail.com
+- [[LinkedIn]((https://www.linkedin.com/in/hasan-haj-hasan/)]
+- Email: hasanvisionx@gmail.com
